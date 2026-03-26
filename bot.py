@@ -32,7 +32,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
+BOT_TOKEN = "7215164495:AAHbPPPctVbDXFxvEYCrEl32AmyYRLVXTe0"
 ADMIN_GROUP_ID = int(os.environ["ADMIN_GROUP_ID"])
 ADMIN_USER_ID = int(os.environ["ADMIN_USER_ID"])
 REQUIRED_CHANNEL  = "@Trad_2win"
