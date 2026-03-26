@@ -1,13 +1,5 @@
-python-telegram-bot[job-queue,webhooks]==22.7
-pillow
-arabic-reshaper
-python-bidi
+python-telegram-bot
 yfinance
 pandas
-matplotlib
-mplfinance
-numpy
 ta
-starlette
-uvicorn
-tornado
+pillow
